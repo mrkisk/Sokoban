@@ -11,6 +11,5 @@ void setup() {
 void draw() {
     keyboardCheckOnDraw();
     board.update();
-    background(0);
     board.display();
 }

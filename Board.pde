@@ -59,6 +59,7 @@ class Board {
         }
     }
     void display() {
+        background(0);
         noStroke();
         for (int i = 0; i < h; i++) {
             for (int j = 0; j < w; j++) {
