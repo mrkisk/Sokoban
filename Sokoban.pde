@@ -1,7 +1,7 @@
 Board board;
 
 void settings() {
-    size(900, 900);
+    size(960, 540);
 }
 
 void setup() {
