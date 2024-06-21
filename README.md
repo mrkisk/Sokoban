@@ -1,2 +1,2 @@
 # Sokoban
-![Demo](demo.gif)
+![Demo](./assets/demo.gif)
