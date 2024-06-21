@@ -1,4 +1,4 @@
-# Sokoban Game
+# Sokoban (倉庫番)
 
 ## Overview
 
