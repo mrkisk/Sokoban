@@ -1,7 +1,7 @@
-0…黒
-1…白
-2…プレイヤー
+0…wall
+1…space
+2…player
 3…box
-4…置くところ
-5…box+置くところ
-6…プレイヤー+置くところ
+4…goal
+5…box+goal
+6…player+goal

@@ -1,0 +1,2 @@
+File: data0.txt
+GameSize: 960 540
