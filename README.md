@@ -1,2 +1,2 @@
 # Sokoban
-A Processing game sketch folder.
+![Demo](demo.gif)
