@@ -17,8 +17,8 @@ Describe how to play the game:
 
 ## Configuration
 
-The `data/config.txt` specifies the filename of the board data you want to play and the screen size.
-The board data files (`data/data*.txt`) contain the screen size and the board layout. For details on the board format, refer to `data/pushCommand.txt`.
+The [data/config.txt](./data/config.txt) specifies the filename of the board data you want to play and the screen size.
+The board data files (`data/data*.txt`) contain the screen size and the board layout. For details on the board format, refer to [data/pushCommand.txt](./data/pushCommand.txt).
 
 ## Installation and Usage
 
